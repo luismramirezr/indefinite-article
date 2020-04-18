@@ -1,0 +1,16 @@
+{
+  "name": "indefinite-article",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "indefinite": "^2.3.2",
+    "jest": "^25.3.0"
+  }
+}
